@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-community
+langchain-openai  # Thay thế cho langchain-ollama
+chromadb
+pypdf
