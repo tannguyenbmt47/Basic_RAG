@@ -1,4 +1,4 @@
 # Basic_RAG
-1. make .env add your openAI api key
-2.Run:
+- make .env add your openAI api key
+- Run:
 `streamlit run main.py`
